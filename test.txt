@@ -1,0 +1,3 @@
+b1 : git add .
+b2 : git commit -m"noi dung commit"
+b3 : git push
